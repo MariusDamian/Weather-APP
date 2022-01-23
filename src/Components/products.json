@@ -1,0 +1,74 @@
+﻿[
+     {
+          "prodName": "iPhone 12 Pro",
+          "relDate": "23-10-2020",
+          "relPrice": "999",
+          "punch": "I guess you love your phone even more now, aren't you?"
+     },
+     {
+          "prodName": "Big Mac Meal",
+          "relDate": "25-12-2020",
+          "relPrice": "5.99",
+          "punch": "Burn those calories!"
+     },
+     {
+          "prodName": "Playstation 5",
+          "relDate": "12-11-2020",
+          "relPrice": "499",
+          "punch": "At least you made some nice kills in Call of Duty!"
+     },
+     {
+          "prodName": "Moet Champagne",
+          "relDate": "12-11-2020",
+          "relPrice": "120",
+          "punch": "Let it rain!"
+     },
+     {
+          "prodName": "Airpods",
+          "relDate": "12-11-2020",
+          "relPrice": "299",
+          "punch": "It's all about the sound quality!"
+     },
+     {
+          "prodName": "Nike Air VaporMax 2021 FK",
+          "relDate": "12-11-2020",
+          "relPrice": "180",
+          "punch": "Unfortunately, they can't help you to run back!"
+     },
+     {
+          "prodName": "Golden Steak",
+          "relDate": "12-11-2020",
+          "relPrice": "300",
+          "punch": "It's... golden!"
+     },
+     {
+          "prodName": "Gucci Perfume",
+          "relDate": "12-11-2020",
+          "relPrice": "57",
+          "punch": "Do I smell money?"
+     },
+     {
+          "prodName": "Starbucks Coffee",
+          "relDate": "12-11-2020",
+          "relPrice": "4.5",
+          "punch": "Something that will keep you awake."
+     },
+     {
+          "prodName": "Bitcoin",
+          "relDate": "12-11-2020",
+          "relPrice": 10500,
+          "punch": "DYOR!"
+     },
+     {
+          "prodName": "Samsung Galaxy Watch 4",
+          "relDate": "12-11-2020",
+          "relPrice": "375",
+          "punch": "It's never too late."
+     },
+     {
+          "prodName": "Lamborghini Urus",
+          "relDate": "12-03-2021",
+          "relPrice": 250000,
+          "punch": "I don't even want to know the maintenance price!"
+     }
+]
